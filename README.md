@@ -1,4 +1,3 @@
-# usb-security-behavioral-analysis
 
 # USB-Charging-Threat-Detection
 
